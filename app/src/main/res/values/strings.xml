@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">&lt;</string>
+<!--带下划线    <string name="login"><u>&lt;登录</u></string>-->
+    <string name="hello">Hello World, LayoutDemo!</string>
+    <string name="app_name">OneApp</string>
+</resources>
